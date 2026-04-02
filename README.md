@@ -2,8 +2,9 @@
 A full-stack MERN Web Application where users subscribe, select a charity, add scores, participate in draw results, and winners are selected based on score matching. Admin can verify winners and manage the system.
 
 🚀 Live Demo
-Frontend: (Add after deployment)
-Backend API: (Add after deployment)
+Frontend:https://golf-charity-platform-frontend.onrender.com
+
+Backend API: https://golf-charity-platform-backend-zg1r.onrender.com
 
 📌 Features
 User Features

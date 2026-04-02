@@ -2,8 +2,8 @@
 A Full Stack MERN Web Application where users subscribe, select a charity, add scores, participate in draw results, and winners are selected based on score matching. Admin can verify winners and manage the system.
 
 🚀 Live Demo
-Frontend: https://your-frontend-url.onrender.com
-Backend API: https://your-backend-url.onrender.com
+Frontend: 
+Backend API:
 
 📌 Features
 👤 User Features

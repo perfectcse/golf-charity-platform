@@ -1,0 +1,49 @@
+.layout {
+  display: flex;
+}
+
+.admin-page {
+  width: 100%;
+  padding: 30px;
+  background: #f4f6fb;
+  min-height: 100vh;
+}
+
+.admin-page h1 {
+  margin-bottom: 20px;
+}
+
+.admin-card {
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.08);
+  margin-bottom: 20px;
+}
+
+.draw-btn {
+  background: linear-gradient(90deg, #ff7e5f, #feb47b);
+  border: none;
+  padding: 12px 20px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.winner-card {
+  border: 1px solid #eee;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.verify-btn {
+  background: #2d6cdf;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 8px;
+}

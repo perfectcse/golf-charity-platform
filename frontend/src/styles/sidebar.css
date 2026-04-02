@@ -1,0 +1,55 @@
+.sidebar {
+  width: 230px;
+  background: linear-gradient(180deg, #2c3e50, #34495e);
+  color: white;
+  min-height: 100vh;
+  padding: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-logo {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+  flex: 1;
+}
+
+.sidebar-menu li {
+  margin-bottom: 15px;
+}
+
+.sidebar-menu a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  display: block;
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.sidebar-menu a:hover {
+  background: rgba(255, 255, 255, 0.15);
+}
+
+/* Active Page Highlight */
+.sidebar-menu a.active {
+  background: #2c7be5;
+}
+
+.sidebar-logout {
+  background: #e74c3c;
+  border: none;
+  padding: 10px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.sidebar-logout:hover {
+  background: #c0392b;
+}

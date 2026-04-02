@@ -1,0 +1,25 @@
+.draw-container {
+  padding: 30px;
+}
+
+.draw-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 20px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.draw-numbers {
+  margin-top: 10px;
+}
+
+.number {
+  display: inline-block;
+  background: #2c7be5;
+  color: white;
+  padding: 10px 15px;
+  margin-right: 10px;
+  border-radius: 50%;
+  font-weight: bold;
+}

@@ -1,0 +1,54 @@
+.winners-container {
+  padding: 25px;
+  background: #f4f6fb;
+  min-height: calc(100vh - 60px);
+}
+
+.winners-card {
+  background: white;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+}
+
+.winner-item {
+  background: #f7f9fc;
+  padding: 15px;
+  margin-bottom: 10px;
+  border-radius: 8px;
+}
+.winners-container {
+  padding: 20px;
+}
+
+.winners-card {
+  background: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+.winner-item {
+  border-bottom: 1px solid #eee;
+  padding: 15px 0;
+}
+
+.winner-item input {
+  padding: 8px;
+  margin-top: 5px;
+  margin-right: 10px;
+}
+
+.winner-item button {
+  padding: 8px 12px;
+  margin-right: 10px;
+  background: #2c7be5;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.winner-item button:hover {
+  background: #1a5ed8;
+}
